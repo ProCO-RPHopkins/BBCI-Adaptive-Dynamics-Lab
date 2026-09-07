@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.nbc
+*.nbi
+.venv/
+venv/
+node_modules/
+.ipynb_checkpoints/
+.DS_Store
+.env
+.env.*
+!.env.example
+/build/
+*.tmp

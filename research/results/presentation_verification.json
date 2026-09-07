@@ -1,0 +1,16 @@
+{
+  "BBCI_Research_Opportunity.pptx": {
+    "slides": 13,
+    "notes": 13,
+    "scripts_with_sources": 13,
+    "min_script_words": 74,
+    "overflow_check": "passed"
+  },
+  "BBCI_Research_Explained.pptx": {
+    "slides": 16,
+    "notes": 16,
+    "scripts_with_sources": 16,
+    "min_script_words": 79,
+    "overflow_check": "passed"
+  }
+}

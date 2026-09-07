@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this research software when using its model or artifacts. Cite individual papers separately."
+type: software
+title: "BBCI Adaptive Dynamics Lab: entropy-informed feedback research benchmark"
+authors:
+  - family-names: Hopkins
+    given-names: Ryan
+version: "0.1.0-research-draft"
+date-released: 2026-09-07
+url: "https://bbci-entropic-research-lab.ryan-hopkins.chatgpt.site"
+repository-code: "https://github.com/ProCO-RPHopkins/BBCI-Adaptive-Dynamics-Lab"
+abstract: "An exploratory synthetic neural-mass benchmark, interactive brain visualization, and accompanying research artifacts. Clinical efficacy is not established."
+keywords:
+  - computational neuroscience
+  - brain-computer interface
+  - permutation entropy
+  - closed-loop feedback
+  - synthetic simulation

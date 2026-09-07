@@ -1,0 +1,30 @@
+{
+  "checks": {
+    "monotone_and_constant_entropy_zero": true,
+    "iid_entropy_near_one": true,
+    "ordinal_entropy_monotonic_transform_invariance": true,
+    "bitwise_seed_reproducibility": true,
+    "finite_bounded_population": true,
+    "amplitude_and_slew_limits": true,
+    "matched_task_stream": true,
+    "zero_sham_input": true,
+    "weak_entropy_calibration_abstains": true,
+    "plasticity_washout_matches_prescribed_decay": true,
+    "deterministic_euler_converges_to_independent_solver": true,
+    "1296_unique_evaluation_rows": true,
+    "yoked_aggregate_energy_matched": true
+  },
+  "passed": 13,
+  "deterministic_step_sizes": [
+    0.002,
+    0.001,
+    0.0005
+  ],
+  "max_E_errors_vs_solve_ivp": [
+    1.920531760506161e-05,
+    1.0063498592574605e-05,
+    5.138996307926802e-06
+  ],
+  "plasticity_decay_ratio": 0.4723488381464663,
+  "scope": "Numerical and software verification only; no human or biological validation. Deterministic convergence is local to this autonomous 0.5-second case. Stochastic step sensitivity is separate."
+}

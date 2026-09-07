@@ -1,0 +1,43 @@
+Amaral, C., Mouga, S., Simões, M., Pereira, H. C., Bernardino, I., Quental, H., et al. (2018). A Feasibility Clinical Trial to Improve Social Attention in Autistic Spectrum Disorder (ASD) Using a Brain Computer Interface. Front. Neurosci. 12, 477. doi: 10.3389/fnins.2018.00477
+
+Bandt, C., Pompe, B. (2002). Permutation Entropy: A Natural Complexity Measure for Time Series. Phys. Rev. Lett. 88, 174102. doi: 10.1103/PhysRevLett.88.174102
+
+Cakan, C., Jajcay, N., Obermayer, K. (2023). neurolib: A Simulation Framework for Whole-Brain Neural Mass Modeling. Cogn. Comput. 15, 1132-1152. doi: 10.1007/s12559-021-09931-9
+
+Carhart-Harris, R. L., Leech, R., Hellyer, P. J., Shanahan, M., Feilding, A., Tagliazucchi, E., et al. (2014). The entropic brain: a theory of conscious states informed by neuroimaging research with psychedelic drugs. Front. Hum. Neurosci. 8, 20. doi: 10.3389/fnhum.2014.00020
+
+Carhart-Harris, R. L. (2026). The entropic brain today. Brain, awag206 (advance online publication). doi: 10.1093/brain/awag206
+
+Chen, Y. C. B., Lin, H. Y., Wang, L. J., Hung, K. C., Brunoni, A. R., Chou, P. H., et al. (2024). A network meta-analysis of non-invasive brain stimulation interventions for autism spectrum disorder: Evidence from randomized controlled trials. Neurosci. Biobehav. Rev. 164, 105807. doi: 10.1016/j.neubiorev.2024.105807
+
+Di Martino, A., Yan, C. G., Li, Q., Denio, E., Castellanos, F. X., Alaerts, K., et al. (2014). The autism brain imaging data exchange: towards a large-scale evaluation of the intrinsic brain architecture in autism. Mol. Psychiatry 19, 659-667. doi: 10.1038/mp.2013.78
+
+Di Martino, A., O’Connor, D., Chen, B., Alaerts, K., Anderson, J. S., Assaf, M., et al. (2017). Enhancing studies of the connectome in autism using the autism brain imaging data exchange II. Sci. Data 4, 170010. doi: 10.1038/sdata.2017.10
+
+Flesher, S. N., Downey, J. E., Weiss, J. M., Hughes, C. L., Herrera, A. J., Tyler-Kabara, E. C., et al. (2021). A brain-computer interface that evokes tactile sensations improves robotic arm control. Science 372, 831-836. doi: 10.1126/science.abd0380
+
+Fletcher-Watson, S., Adams, J., Brook, K., Charman, T., Crane, L., Cusack, J., et al. (2019). Making the future together: Shaping autism research through meaningful participation. Autism 23, 943-953. doi: 10.1177/1362361318786721
+
+Fu, S., Wang, X., Chen, Z., Huang, Z., Feng, Y., Xie, Y., et al. (2025). Abnormalities in brain complexity in children with autism spectrum disorder: a sleeping state functional MRI study. BMC Psychiatry 25, 257. doi: 10.1186/s12888-025-06689-4
+
+Herzog, R., Mediano, P. A. M., Rosas, F. E., Lodder, P., Carhart-Harris, R., Perl, Y. S., et al. (2023). A whole-brain model of the neural entropy increase elicited by psychedelic drugs. Sci. Rep. 13, 6244. doi: 10.1038/s41598-023-32649-7
+
+Ilioska, I., Oldehinkel, M., Llera, A., Rovný, M., Mei, T., Kia, S. M., et al. (2026). Multiscale heterogeneity of atypical functional connectivity in autism. Nat. Ment. Health 4, 1010-1020. doi: 10.1038/s44220-026-00656-y
+
+Lyons, T., Spriggs, M., Kerkelä, L., Rosas, F. E., Roseman, L., Mediano, P. A. M., et al. (2026). Human brain changes after first psilocybin use. Nat. Commun. 17, 3977. doi: 10.1038/s41467-026-71962-3
+
+Ni, H. C., Chen, Y. L., Chao, Y. P., Wu, C. T., Chen, R. S., Chou, T. L., et al. (2023). A lack of efficacy of continuous theta burst stimulation over the left dorsolateral prefrontal cortex in autism: A double blind randomized sham‐controlled trial. Autism Res. 16, 1247-1262. doi: 10.1002/aur.2954
+
+Ni, H. C., Chen, Y. L., Hsieh, M. Y., Wu, C. T., Chen, R. S., Juan, C. H., et al. (2024). Improving social cognition following theta burst stimulation over the right inferior frontal gyrus in autism spectrum: an 8-week double-blind sham-controlled trial. Psychol. Med. 54, 3261-3272. doi: 10.1017/S0033291724001387
+
+Oehrn, C. R., Cernera, S., Hammer, L. H., Shcherbakova, M., Yao, J., Hahn, A., et al. (2024). Chronic adaptive deep brain stimulation versus conventional stimulation in Parkinson’s disease: a blinded randomized feasibility trial. Nat. Med. 30, 3345-3356. doi: 10.1038/s41591-024-03196-z
+
+Sandve, G. K., Nekrutenko, A., Taylor, J., Hovig, E. (2013). Ten Simple Rules for Reproducible Computational Research. PLoS Comput. Biol. 9, e1003285. doi: 10.1371/journal.pcbi.1003285
+
+Stoliker, D., Novelli, L., Khajehnejad, M., Biabani, M., Greaves, M. D., Barta, T., et al. (2026). Psychedelics align brain activity with context. Nature 656, 936-947. doi: 10.1038/s41586-026-10910-z
+
+Tan, H., Ren, T., Cao, A., Fang, S., Deng, L., Hu, B., et al. (2026). Accelerated continuous theta burst stimulation targeting left primary motor cortex for children with autism spectrum disorder: multicentre randomised sham controlled trial. BMJ 393, e086295. doi: 10.1136/bmj-2025-086295
+
+Tenev, A., Markovska-Simoska, S., Müller, A., Mishkovski, I. (2025). Entropy, complexity, and spectral features of EEG signals in autism and typical development: a quantitative approach. Front. Psychiatry 16, 1505297. doi: 10.3389/fpsyt.2025.1505297
+
+Wilson, H. R., Cowan, J. D. (1972). Excitatory and Inhibitory Interactions in Localized Populations of Model Neurons. Biophys. J. 12, 1-24. doi: 10.1016/S0006-3495(72)86068-5

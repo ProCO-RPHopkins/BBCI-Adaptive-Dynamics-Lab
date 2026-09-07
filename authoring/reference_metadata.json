@@ -1,0 +1,4271 @@
+{
+  "10.1002/aur.2954": {
+    "DOI": "10.1002/aur.2954",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-7804-7891",
+        "authenticated-orcid": false,
+        "given": "Hsing‐Chang",
+        "family": "Ni",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Psychiatry Chang Gung Memorial Hospital at Linkou  Taoyuan Taiwan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2934-5814",
+        "authenticated-orcid": false,
+        "given": "Yi‐Lung",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Healthcare Administration Asia University  Taichung Taiwan"
+          },
+          {
+            "name": "Department of Psychology Asia University  Taichung Taiwan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yi‐Ping",
+        "family": "Chao",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Computer Science and Information Engineering Chang Gung University  Taoyuan Taiwan"
+          },
+          {
+            "name": "Department of Otorhinolaryngology‐Head and Neck Surgery Chang Gung Memorial Hospital at Linkou  Taoyuan Taiwan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chen‐Te",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Medical Imaging and Intervention Chang Gung Memorial Hospital at Linkou  Taoyuan Taiwan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rao‐Shayn",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Neurology Chang Gung Memorial Hospital at Linkou  Taoyuan Taiwan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5039-7793",
+        "authenticated-orcid": false,
+        "given": "Tai‐Li",
+        "family": "Chou",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychology National Taiwan University  Taipei Taiwan"
+          },
+          {
+            "name": "Graduate Institute of Brain and Mind Sciences, College of Medicine National Taiwan University  Taipei Taiwan"
+          },
+          {
+            "name": "Neurobiology and Cognitive Science Center National Taiwan University  Taipei Taiwan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2718-8221",
+        "authenticated-orcid": false,
+        "given": "Susan Shur‐Fen",
+        "family": "Gau",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Graduate Institute of Brain and Mind Sciences, College of Medicine National Taiwan University  Taipei Taiwan"
+          },
+          {
+            "name": "Neurobiology and Cognitive Science Center National Taiwan University  Taipei Taiwan"
+          },
+          {
+            "name": "Department of Psychiatry National Taiwan University Hospital and College of Medicine  Taipei Taiwan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9519-209X",
+        "authenticated-orcid": false,
+        "given": "Hsiang‐Yuan",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Azrieli Adult Neurodevelopmental Centre Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health  Toronto Ontario Canada"
+          },
+          {
+            "name": "Department of Psychiatry, Temerty Faculty of Medicine University of Toronto  Toronto Ontario Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "A lack of efficacy of continuous theta burst stimulation over the left dorsolateral prefrontal cortex in autism: A double blind randomized sham‐controlled trial"
+    ],
+    "container-title": [
+      "Autism Research"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          23
+        ]
+      ]
+    },
+    "volume": "16",
+    "page": "1247-1262"
+  },
+  "10.1007/s12559-021-09931-9": {
+    "DOI": "10.1007/s12559-021-09931-9",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1902-5393",
+        "authenticated-orcid": false,
+        "given": "Caglar",
+        "family": "Cakan",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nikola",
+        "family": "Jajcay",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Klaus",
+        "family": "Obermayer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "neurolib: A Simulation Framework for Whole-Brain Neural Mass Modeling"
+    ],
+    "container-title": [
+      "Cognitive Computation"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          12
+        ]
+      ]
+    },
+    "volume": "15",
+    "page": "1132-1152"
+  },
+  "10.1016/S0006-3495(72)86068-5": {
+    "DOI": "10.1016/s0006-3495(72)86068-5",
+    "author": [
+      {
+        "given": "Hugh R.",
+        "family": "Wilson",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jack D.",
+        "family": "Cowan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Excitatory and Inhibitory Interactions in Localized Populations of Model Neurons"
+    ],
+    "container-title": [
+      "Biophysical Journal"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1972,
+          1
+        ]
+      ]
+    },
+    "volume": "12",
+    "page": "1-24"
+  },
+  "10.1016/j.neubiorev.2024.105807": {
+    "DOI": "10.1016/j.neubiorev.2024.105807",
+    "author": [
+      {
+        "given": "Yang-Chieh Brian",
+        "family": "Chen",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hsiang-Yuan",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Liang-Jen",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kuo-Chuan",
+        "family": "Hung",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andre R.",
+        "family": "Brunoni",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Po-Han",
+        "family": "Chou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ping-Tao",
+        "family": "Tseng",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chih-Sung",
+        "family": "Liang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yu-Kang",
+        "family": "Tu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pao-Yen",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andre F.",
+        "family": "Carvalho",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8650-4060",
+        "authenticated-orcid": false,
+        "given": "Chih-Wei",
+        "family": "Hsu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hsing-Chang",
+        "family": "Ni",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "A network meta-analysis of non-invasive brain stimulation interventions for autism spectrum disorder: Evidence from randomized controlled trials"
+    ],
+    "container-title": [
+      "Neuroscience &amp; Biobehavioral Reviews"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          9
+        ]
+      ]
+    },
+    "volume": "164",
+    "page": "105807",
+    "article-number": "105807"
+  },
+  "10.1017/S0033291724001387": {
+    "DOI": "10.1017/s0033291724001387",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-7804-7891",
+        "authenticated-orcid": false,
+        "given": "Hsing-Chang",
+        "family": "Ni",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Chang Gung Memorial Hospital at Linkou"
+          },
+          {
+            "name": "Chang Gung University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yi-Lung",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Asia University"
+          },
+          {
+            "name": "Asia University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Meng-Ying",
+        "family": "Hsieh",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Chang Gung Memorial Hospital at Taipei"
+          },
+          {
+            "name": "Chang Gung Memorial Hospital at Linkou"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chen-Te",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Chang Gung Memorial Hospital at Linkou"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rou-Shayn",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Chang Gung Memorial Hospital at Linkou"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chi-Hung",
+        "family": "Juan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institue of Cognitive Neuroscience, National Central University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Cheng-Ta",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Taipei Veterans General Hospital"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Susan Shur-Fen",
+        "family": "Gau",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Graduate Institute of Brain and Mind Sciences, College of Medicine, National Taiwan University"
+          },
+          {
+            "name": "Neurobiology and Cognitive Science Center, National Taiwan University"
+          },
+          {
+            "name": "National Taiwan University Hospital and College of Medicine"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hsiang-Yuan",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Azrieli Adult Neurodevelopmental Centre, Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health"
+          },
+          {
+            "name": "University of Toronto"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Improving social cognition following theta burst stimulation over the right inferior frontal gyrus in autism spectrum: an 8-week double-blind sham-controlled trial"
+    ],
+    "container-title": [
+      "Psychological Medicine"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          9
+        ]
+      ]
+    },
+    "volume": "54",
+    "page": "3261-3272"
+  },
+  "10.1038/mp.2013.78": {
+    "DOI": "10.1038/mp.2013.78",
+    "author": [
+      {
+        "given": "A",
+        "family": "Di Martino",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "C-G",
+        "family": "Yan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Q",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "E",
+        "family": "Denio",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "F X",
+        "family": "Castellanos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "K",
+        "family": "Alaerts",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J S",
+        "family": "Anderson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M",
+        "family": "Assaf",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "S Y",
+        "family": "Bookheimer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M",
+        "family": "Dapretto",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "B",
+        "family": "Deen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "S",
+        "family": "Delmonte",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "I",
+        "family": "Dinstein",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "B",
+        "family": "Ertl-Wagner",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "D A",
+        "family": "Fair",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "L",
+        "family": "Gallagher",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "D P",
+        "family": "Kennedy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "C L",
+        "family": "Keown",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "C",
+        "family": "Keysers",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J E",
+        "family": "Lainhart",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "C",
+        "family": "Lord",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "B",
+        "family": "Luna",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "V",
+        "family": "Menon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "N J",
+        "family": "Minshew",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "C S",
+        "family": "Monk",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "S",
+        "family": "Mueller",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "R-A",
+        "family": "Müller",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M B",
+        "family": "Nebel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J T",
+        "family": "Nigg",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "K",
+        "family": "O'Hearn",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "K A",
+        "family": "Pelphrey",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "S J",
+        "family": "Peltier",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J D",
+        "family": "Rudie",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "S",
+        "family": "Sunaert",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M",
+        "family": "Thioux",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J M",
+        "family": "Tyszka",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "L Q",
+        "family": "Uddin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J S",
+        "family": "Verhoeven",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "N",
+        "family": "Wenderoth",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J L",
+        "family": "Wiggins",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "S H",
+        "family": "Mostofsky",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M P",
+        "family": "Milham",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "The autism brain imaging data exchange: towards a large-scale evaluation of the intrinsic brain architecture in autism"
+    ],
+    "container-title": [
+      "Molecular Psychiatry"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          6,
+          18
+        ]
+      ]
+    },
+    "volume": "19",
+    "page": "659-667"
+  },
+  "10.1038/s41467-026-71962-3": {
+    "DOI": "10.1038/s41467-026-71962-3",
+    "author": [
+      {
+        "given": "T.",
+        "family": "Lyons",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M.",
+        "family": "Spriggs",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "L.",
+        "family": "Kerkelä",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7790-6183",
+        "authenticated-orcid": false,
+        "given": "F. E.",
+        "family": "Rosas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9990-6029",
+        "authenticated-orcid": false,
+        "given": "L.",
+        "family": "Roseman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1789-5894",
+        "authenticated-orcid": false,
+        "given": "P. A. M.",
+        "family": "Mediano",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2281-377X",
+        "authenticated-orcid": false,
+        "given": "C.",
+        "family": "Timmermann",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "L.",
+        "family": "Oestreich",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9496-7604",
+        "authenticated-orcid": false,
+        "given": "B. A.",
+        "family": "Pagni",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "R. J.",
+        "family": "Zeifman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Hampshire",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3947-5532",
+        "authenticated-orcid": false,
+        "given": "W.",
+        "family": "Trender",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4033-385X",
+        "authenticated-orcid": false,
+        "given": "H. M.",
+        "family": "Douglass",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0455-4273",
+        "authenticated-orcid": false,
+        "given": "M.",
+        "family": "Girn",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "K.",
+        "family": "Godfrey",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "H.",
+        "family": "Kettner",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6656-4616",
+        "authenticated-orcid": false,
+        "given": "F.",
+        "family": "Sharif",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "L.",
+        "family": "Espasiano",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1232-9431",
+        "authenticated-orcid": false,
+        "given": "A.",
+        "family": "Gazzaley",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0493-6274",
+        "authenticated-orcid": false,
+        "given": "M. B.",
+        "family": "Wall",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7022-6211",
+        "authenticated-orcid": false,
+        "given": "D.",
+        "family": "Erritzoe",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1286-1401",
+        "authenticated-orcid": false,
+        "given": "D. J.",
+        "family": "Nutt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6062-7150",
+        "authenticated-orcid": false,
+        "given": "R. L.",
+        "family": "Carhart-Harris",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Human brain changes after first psilocybin use"
+    ],
+    "container-title": [
+      "Nature Communications"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          5
+        ]
+      ]
+    },
+    "volume": "17",
+    "article-number": "3977"
+  },
+  "10.1038/s41586-026-10910-z": {
+    "DOI": "10.1038/s41586-026-10910-z",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-6724-4497",
+        "authenticated-orcid": false,
+        "given": "Devon",
+        "family": "Stoliker",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Leonardo",
+        "family": "Novelli",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Moein",
+        "family": "Khajehnejad",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mana",
+        "family": "Biabani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Matthew D.",
+        "family": "Greaves",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tamrin",
+        "family": "Barta",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9483-3008",
+        "authenticated-orcid": false,
+        "given": "Martin",
+        "family": "Williams",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0866-3477",
+        "authenticated-orcid": false,
+        "given": "Sidhant",
+        "family": "Chopra",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Olivier",
+        "family": "Bazin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4197-7566",
+        "authenticated-orcid": false,
+        "given": "Otto",
+        "family": "Simonsson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Richard",
+        "family": "Chambers",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7443-3237",
+        "authenticated-orcid": false,
+        "given": "Frederick S.",
+        "family": "Barrett",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8995-7583",
+        "authenticated-orcid": false,
+        "given": "Gustavo",
+        "family": "Deco",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0413-7672",
+        "authenticated-orcid": false,
+        "given": "Katrin H.",
+        "family": "Preller",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6062-7150",
+        "authenticated-orcid": false,
+        "given": "Robin L.",
+        "family": "Carhart-Harris",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1421-6051",
+        "authenticated-orcid": false,
+        "given": "Anil K.",
+        "family": "Seth",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Suresh",
+        "family": "Sundram",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gary F.",
+        "family": "Egan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0779-9439",
+        "authenticated-orcid": false,
+        "given": "Adeel",
+        "family": "Razi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Psychedelics align brain activity with context"
+    ],
+    "container-title": [
+      "Nature"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          19
+        ]
+      ]
+    },
+    "volume": "656",
+    "page": "936-947"
+  },
+  "10.1038/s41591-024-03196-z": {
+    "DOI": "10.1038/s41591-024-03196-z",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-8451-7960",
+        "authenticated-orcid": false,
+        "given": "Carina R.",
+        "family": "Oehrn",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stephanie",
+        "family": "Cernera",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lauren H.",
+        "family": "Hammer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Maria",
+        "family": "Shcherbakova",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7062-2508",
+        "authenticated-orcid": false,
+        "given": "Jiaang",
+        "family": "Yao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Amelia",
+        "family": "Hahn",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sarah",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jill L.",
+        "family": "Ostrem",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6249-6230",
+        "authenticated-orcid": false,
+        "given": "Simon",
+        "family": "Little",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2733-4003",
+        "authenticated-orcid": false,
+        "given": "Philip A.",
+        "family": "Starr",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Chronic adaptive deep brain stimulation versus conventional stimulation in Parkinson’s disease: a blinded randomized feasibility trial"
+    ],
+    "container-title": [
+      "Nature Medicine"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          19
+        ]
+      ]
+    },
+    "volume": "30",
+    "page": "3345-3356"
+  },
+  "10.1038/s41598-023-32649-7": {
+    "DOI": "10.1038/s41598-023-32649-7",
+    "author": [
+      {
+        "given": "Rubén",
+        "family": "Herzog",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pedro A. M.",
+        "family": "Mediano",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Fernando E.",
+        "family": "Rosas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Paul",
+        "family": "Lodder",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Robin",
+        "family": "Carhart-Harris",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yonatan Sanz",
+        "family": "Perl",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Enzo",
+        "family": "Tagliazucchi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rodrigo",
+        "family": "Cofre",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "A whole-brain model of the neural entropy increase elicited by psychedelic drugs"
+    ],
+    "container-title": [
+      "Scientific Reports"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          17
+        ]
+      ]
+    },
+    "volume": "13",
+    "article-number": "6244"
+  },
+  "10.1038/s44220-026-00656-y": {
+    "DOI": "10.1038/s44220-026-00656-y",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-6251-8196",
+        "authenticated-orcid": false,
+        "given": "Iva",
+        "family": "Ilioska",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marianne",
+        "family": "Oldehinkel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8358-8625",
+        "authenticated-orcid": false,
+        "given": "Alberto",
+        "family": "Llera",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Maroš",
+        "family": "Rovný",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ting",
+        "family": "Mei",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7128-814X",
+        "authenticated-orcid": false,
+        "given": "Seyed Mostafa",
+        "family": "Kia",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dorothea L.",
+        "family": "Floris",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Julian",
+        "family": "Tillmann",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rosemary J.",
+        "family": "Holt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9458-9167",
+        "authenticated-orcid": false,
+        "given": "Eva",
+        "family": "Loth",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1993-6549",
+        "authenticated-orcid": false,
+        "given": "Tony",
+        "family": "Charman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6664-7451",
+        "authenticated-orcid": false,
+        "given": "Declan G. M.",
+        "family": "Murphy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Christine",
+        "family": "Ecker",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4595-1144",
+        "authenticated-orcid": false,
+        "given": "Tobias",
+        "family": "Banaschewski",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Maarten",
+        "family": "Mennes",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Christian F.",
+        "family": "Beckmann",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5903-203X",
+        "authenticated-orcid": false,
+        "given": "Andre",
+        "family": "Marquand",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8288-7757",
+        "authenticated-orcid": false,
+        "given": "Jan K.",
+        "family": "Buitelaar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alex",
+        "family": "Fornito",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Multiscale heterogeneity of atypical functional connectivity in autism"
+    ],
+    "container-title": [
+      "Nature Mental Health"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          1
+        ]
+      ]
+    },
+    "volume": "4",
+    "page": "1010-1020"
+  },
+  "10.1038/sdata.2017.10": {
+    "DOI": "10.1038/sdata.2017.10",
+    "author": [
+      {
+        "given": "Adriana",
+        "family": "Di Martino",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David",
+        "family": "O’Connor",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bosi",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kaat",
+        "family": "Alaerts",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jeffrey S.",
+        "family": "Anderson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michal",
+        "family": "Assaf",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9856-6990",
+        "authenticated-orcid": false,
+        "given": "Joshua H.",
+        "family": "Balsters",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Leslie",
+        "family": "Baxter",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anita",
+        "family": "Beggiato",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4933-8283",
+        "authenticated-orcid": false,
+        "given": "Sylvie",
+        "family": "Bernaerts",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Laura M. E.",
+        "family": "Blanken",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Susan Y.",
+        "family": "Bookheimer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "B. Blair",
+        "family": "Braden",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lisa",
+        "family": "Byrge",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9192-9437",
+        "authenticated-orcid": false,
+        "given": "F. Xavier",
+        "family": "Castellanos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mirella",
+        "family": "Dapretto",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Richard",
+        "family": "Delorme",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Damien A.",
+        "family": "Fair",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5873-2365",
+        "authenticated-orcid": false,
+        "given": "Inna",
+        "family": "Fishman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jacqueline",
+        "family": "Fitzgerald",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Louise",
+        "family": "Gallagher",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9417-608X",
+        "authenticated-orcid": false,
+        "given": "R. Joanne Jao",
+        "family": "Keehn",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Daniel P.",
+        "family": "Kennedy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Janet E.",
+        "family": "Lainhart",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Beatriz",
+        "family": "Luna",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stewart H.",
+        "family": "Mostofsky",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ralph-Axel",
+        "family": "Müller",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0185-3382",
+        "authenticated-orcid": false,
+        "given": "Mary Beth",
+        "family": "Nebel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Joel T.",
+        "family": "Nigg",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kirsten",
+        "family": "O’Hearn",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marjorie",
+        "family": "Solomon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Roberto",
+        "family": "Toro",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chandan J.",
+        "family": "Vaidya",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nicole",
+        "family": "Wenderoth",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tonya",
+        "family": "White",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4950-1303",
+        "authenticated-orcid": false,
+        "given": "R. Cameron",
+        "family": "Craddock",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Catherine",
+        "family": "Lord",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bennett",
+        "family": "Leventhal",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael P.",
+        "family": "Milham",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Enhancing studies of the connectome in autism using the autism brain imaging data exchange II"
+    ],
+    "container-title": [
+      "Scientific Data"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          14
+        ]
+      ]
+    },
+    "volume": "4",
+    "article-number": "170010"
+  },
+  "10.1093/brain/awag206": {
+    "DOI": "10.1093/brain/awag206",
+    "author": [
+      {
+        "given": "Robin L",
+        "family": "Carhart-Harris",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Carhart-Harris Lab, Departments of Neurology, Psychiatry and Behavioral Sciences, Weill Institute for Neuroscience, University of California San Francisco , San Francisco, CA 94158 ,",
+            "place": [
+              "USA"
+            ]
+          },
+          {
+            "name": "Centre for Psychedelic Research, Imperial College London , London, SW7 2AZ ,",
+            "place": [
+              "UK"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "The entropic brain today"
+    ],
+    "container-title": [
+      "Brain"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          10
+        ]
+      ]
+    },
+    "article-number": "awag206"
+  },
+  "10.1103/PhysRevLett.88.174102": {
+    "DOI": "10.1103/physrevlett.88.174102",
+    "author": [
+      {
+        "given": "Christoph",
+        "family": "Bandt",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bernd",
+        "family": "Pompe",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Permutation Entropy: A Natural Complexity Measure for Time Series"
+    ],
+    "container-title": [
+      "Physical Review Letters"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2002,
+          4,
+          11
+        ]
+      ]
+    },
+    "volume": "88",
+    "article-number": "174102"
+  },
+  "10.1126/science.abd0380": {
+    "DOI": "10.1126/science.abd0380",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-0740-0018",
+        "authenticated-orcid": true,
+        "given": "Sharlene N.",
+        "family": "Flesher",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Rehab Neural Engineering Labs, University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            "name": "Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            "name": "Center for the Neural Basis of Cognition, Pittsburgh, PA, USA."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2992-2848",
+        "authenticated-orcid": true,
+        "given": "John E.",
+        "family": "Downey",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Rehab Neural Engineering Labs, University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            "name": "Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            "name": "Center for the Neural Basis of Cognition, Pittsburgh, PA, USA."
+          },
+          {
+            "name": "Department of Organismal Biology, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1332-674X",
+        "authenticated-orcid": true,
+        "given": "Jeffrey M.",
+        "family": "Weiss",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Rehab Neural Engineering Labs, University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            "name": "Department of Physical Medicine and Rehabilitation, University of Pittsburgh, Pittsburgh, PA, USA."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9257-8659",
+        "authenticated-orcid": true,
+        "given": "Christopher L.",
+        "family": "Hughes",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Rehab Neural Engineering Labs, University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            "name": "Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            "name": "Center for the Neural Basis of Cognition, Pittsburgh, PA, USA."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2310-5908",
+        "authenticated-orcid": true,
+        "given": "Angelica J.",
+        "family": "Herrera",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Rehab Neural Engineering Labs, University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            "name": "Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            "name": "Center for the Neural Basis of Cognition, Pittsburgh, PA, USA."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3286-1094",
+        "authenticated-orcid": true,
+        "given": "Elizabeth C.",
+        "family": "Tyler-Kabara",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Neurosurgery, University of Texas at Austin, Austin, TX, USA."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6966-919X",
+        "authenticated-orcid": true,
+        "given": "Michael L.",
+        "family": "Boninger",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Rehab Neural Engineering Labs, University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            "name": "Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            "name": "Department of Physical Medicine and Rehabilitation, University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            "name": "McGowan Institute for Regenerative Medicine, University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            "name": "VA Center of Excellence, Department of Veterans Affairs, Pittsburgh, PA, USA."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4517-5395",
+        "authenticated-orcid": true,
+        "given": "Jennifer L.",
+        "family": "Collinger",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Rehab Neural Engineering Labs, University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            "name": "Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            "name": "Center for the Neural Basis of Cognition, Pittsburgh, PA, USA."
+          },
+          {
+            "name": "Department of Physical Medicine and Rehabilitation, University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            "name": "VA Center of Excellence, Department of Veterans Affairs, Pittsburgh, PA, USA."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6202-5818",
+        "authenticated-orcid": true,
+        "given": "Robert A.",
+        "family": "Gaunt",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Rehab Neural Engineering Labs, University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            "name": "Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            "name": "Center for the Neural Basis of Cognition, Pittsburgh, PA, USA."
+          },
+          {
+            "name": "Department of Physical Medicine and Rehabilitation, University of Pittsburgh, Pittsburgh, PA, USA."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "A brain-computer interface that evokes tactile sensations improves robotic arm control"
+    ],
+    "container-title": [
+      "Science"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          21
+        ]
+      ]
+    },
+    "volume": "372",
+    "page": "831-836"
+  },
+  "10.1136/bmj-2025-086295": {
+    "DOI": "10.1136/bmj-2025-086295",
+    "author": [
+      {
+        "given": "Hangyu",
+        "family": "Tan",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Behavioural Paediatric and Child Primary Care & Ministry of Education, Shanghai Key Laboratory of Children’s Environmental Health, Xinhua Hospital affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tai",
+        "family": "Ren",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Behavioural Paediatric and Child Primary Care & Ministry of Education, Shanghai Key Laboratory of Children’s Environmental Health, Xinhua Hospital affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Aihua",
+        "family": "Cao",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Paediatrics, Qilu Hospital of Shandong University, Jinan, Shandong, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Shuanfeng",
+        "family": "Fang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Behavioural Paediatric & Child Primary Care, Zhengzhou Children’s Hospital affiliated to Zhengzhou University, Henan Children’s Hospital, Zhengzhou Children’s Hospital, Zhengzhou, Henan, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lin",
+        "family": "Deng",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Behavioural Paediatric and Child Primary Care & Ministry of Education, Shanghai Key Laboratory of Children’s Environmental Health, Xinhua Hospital affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bo",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Behavioural Paediatric & Child Primary Care, Zhengzhou Children’s Hospital affiliated to Zhengzhou University, Henan Children’s Hospital, Zhengzhou Children’s Hospital, Zhengzhou, Henan, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mei",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Paediatrics, Qilu Hospital of Shandong University, Jinan, Shandong, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ye",
+        "family": "Cheng",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Behavioural Paediatric & Child Primary Care, Zhengzhou Children’s Hospital affiliated to Zhengzhou University, Henan Children’s Hospital, Zhengzhou Children’s Hospital, Zhengzhou, Henan, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xi",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Clinical Research and Innovation Unit, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yawen",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Paediatrics, Qilu Hospital of Shandong University, Jinan, Shandong, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yixia",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Behavioural Paediatric & Child Primary Care, Zhengzhou Children’s Hospital affiliated to Zhengzhou University, Henan Children’s Hospital, Zhengzhou Children’s Hospital, Zhengzhou, Henan, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lingli",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Behavioural Paediatric and Child Primary Care & Ministry of Education, Shanghai Key Laboratory of Children’s Environmental Health, Xinhua Hospital affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Luan",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Behavioural Paediatric and Child Primary Care & Ministry of Education, Shanghai Key Laboratory of Children’s Environmental Health, Xinhua Hospital affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wei",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Behavioural Paediatric and Child Primary Care & Ministry of Education, Shanghai Key Laboratory of Children’s Environmental Health, Xinhua Hospital affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Qianlong",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Behavioural Paediatric and Child Primary Care & Ministry of Education, Shanghai Key Laboratory of Children’s Environmental Health, Xinhua Hospital affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jiong",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Behavioural Paediatric and Child Primary Care & Ministry of Education, Shanghai Key Laboratory of Children’s Environmental Health, Xinhua Hospital affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China"
+          },
+          {
+            "name": "Department of Epidemiology, School of Public Health, Nanjing Medical University, Nanjing, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xin",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Behavioural Paediatric and Child Primary Care & Ministry of Education, Shanghai Key Laboratory of Children’s Environmental Health, Xinhua Hospital affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Christelle",
+        "family": "Langley",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychiatry, University of Cambridge, Cambridge, UK"
+          },
+          {
+            "name": "Behavioural and Clinical Neuroscience Institute, University of Cambridge, Cambridge, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Qiang",
+        "family": "Luo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Science and Technology for Brain-Inspired Intelligence, Ministry of Education-Key Laboratory of Computational Neuroscience and Brain-Inspired Intelligence, Fudan University, Shanghai, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jun",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Behavioural Paediatric and Child Primary Care & Ministry of Education, Shanghai Key Laboratory of Children’s Environmental Health, Xinhua Hospital affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Barbara J",
+        "family": "Sahakian",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychiatry, University of Cambridge, Cambridge, UK"
+          },
+          {
+            "name": "Behavioural and Clinical Neuroscience Institute, University of Cambridge, Cambridge, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ti-Fei",
+        "family": "Yuan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Shanghai Key Laboratory of Psychotic Disorders, Brain Health Institute, National Center for Mental Disorders, Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine and School of Psychology, Shanghai, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2455-4986",
+        "authenticated-orcid": false,
+        "given": "Fei",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Developmental and Behavioural Paediatric and Child Primary Care & Ministry of Education, Shanghai Key Laboratory of Children’s Environmental Health, Xinhua Hospital affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Accelerated continuous theta burst stimulation targeting left primary motor cortex for children with autism spectrum disorder: multicentre randomised sham controlled trial"
+    ],
+    "container-title": [
+      "BMJ"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          29
+        ]
+      ]
+    },
+    "volume": "393",
+    "page": "e086295"
+  },
+  "10.1177/1362361318786721": {
+    "DOI": "10.1177/1362361318786721",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-2688-1734",
+        "authenticated-orcid": false,
+        "given": "Sue",
+        "family": "Fletcher-Watson",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "The University of Edinburgh, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jon",
+        "family": "Adams",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Flow Observatorium, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kabie",
+        "family": "Brook",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Autism Rights Group Highland, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tony",
+        "family": "Charman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "King’s College London, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4161-3490",
+        "authenticated-orcid": false,
+        "given": "Laura",
+        "family": "Crane",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University College London, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "James",
+        "family": "Cusack",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Autistica, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Susan",
+        "family": "Leekam",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Cardiff University, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Damian",
+        "family": "Milton",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Participatory Autism Research Collective, UK"
+          },
+          {
+            "name": "University of Kent, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jeremy R",
+        "family": "Parr",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Newcastle University, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Elizabeth",
+        "family": "Pellicano",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Macquarie University, Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Making the future together: Shaping autism research through meaningful participation"
+    ],
+    "container-title": [
+      "Autism"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          10
+        ]
+      ]
+    },
+    "volume": "23",
+    "page": "943-953"
+  },
+  "10.1186/s12888-025-06689-4": {
+    "DOI": "10.1186/s12888-025-06689-4",
+    "author": [
+      {
+        "given": "Shishun",
+        "family": "Fu",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiang",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ziwei",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zengfa",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yin",
+        "family": "Feng",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yuanliang",
+        "family": "Xie",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiang",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chunlan",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Shoujun",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Abnormalities in brain complexity in children with autism spectrum disorder: a sleeping state functional MRI study"
+    ],
+    "container-title": [
+      "BMC Psychiatry"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          19
+        ]
+      ]
+    },
+    "volume": "25",
+    "article-number": "257"
+  },
+  "10.1371/journal.pcbi.1003285": {
+    "DOI": "10.1371/journal.pcbi.1003285",
+    "author": [
+      {
+        "given": "Geir Kjetil",
+        "family": "Sandve",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anton",
+        "family": "Nekrutenko",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "James",
+        "family": "Taylor",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Eivind",
+        "family": "Hovig",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Ten Simple Rules for Reproducible Computational Research"
+    ],
+    "container-title": [
+      "PLoS Computational Biology"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          24
+        ]
+      ]
+    },
+    "volume": "9",
+    "page": "e1003285"
+  },
+  "10.3389/fnhum.2014.00020": {
+    "DOI": "10.3389/fnhum.2014.00020",
+    "author": [
+      {
+        "given": "Robin L.",
+        "family": "Carhart-Harris",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Robert",
+        "family": "Leech",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Peter J.",
+        "family": "Hellyer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Murray",
+        "family": "Shanahan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Amanda",
+        "family": "Feilding",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Enzo",
+        "family": "Tagliazucchi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dante R.",
+        "family": "Chialvo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David",
+        "family": "Nutt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "The entropic brain: a theory of conscious states informed by neuroimaging research with psychedelic drugs"
+    ],
+    "container-title": [
+      "Frontiers in Human Neuroscience"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "volume": "8"
+  },
+  "10.3389/fnins.2018.00477": {
+    "DOI": "10.3389/fnins.2018.00477",
+    "author": [
+      {
+        "given": "Carlos",
+        "family": "Amaral",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Susana",
+        "family": "Mouga",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marco",
+        "family": "Simões",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Helena C.",
+        "family": "Pereira",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Inês",
+        "family": "Bernardino",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hugo",
+        "family": "Quental",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rebecca",
+        "family": "Playle",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rachel",
+        "family": "McNamara",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Guiomar",
+        "family": "Oliveira",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Miguel",
+        "family": "Castelo-Branco",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "A Feasibility Clinical Trial to Improve Social Attention in Autistic Spectrum Disorder (ASD) Using a Brain Computer Interface"
+    ],
+    "container-title": [
+      "Frontiers in Neuroscience"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          13
+        ]
+      ]
+    },
+    "volume": "12",
+    "article-number": "477"
+  },
+  "10.3389/fpsyt.2025.1505297": {
+    "DOI": "10.3389/fpsyt.2025.1505297",
+    "author": [
+      {
+        "given": "Aleksandar",
+        "family": "Tenev",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Silvana",
+        "family": "Markovska-Simoska",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andreas",
+        "family": "Müller",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Igor",
+        "family": "Mishkovski",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Entropy, complexity, and spectral features of EEG signals in autism and typical development: a quantitative approach"
+    ],
+    "container-title": [
+      "Frontiers in Psychiatry"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          4
+        ]
+      ]
+    },
+    "volume": "16",
+    "article-number": "1505297"
+  }
+}
