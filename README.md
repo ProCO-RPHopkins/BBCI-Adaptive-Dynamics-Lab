@@ -11,7 +11,8 @@
   <a href="#run-the-lab">Launch locally</a> ·
   <a href="artifacts/manuscript/Hopkins_Entropy_Feedback_Manuscript.pdf">Read the paper</a> ·
   <a href="research/BBCI_Research_Notebook.ipynb">Open the notebook</a> ·
-  <a href="artifacts/presentations/">Explore the presentations</a>
+  <a href="artifacts/presentations/">Explore the presentations</a> ·
+  <a href="https://bbci-entropic-research-lab.ryan-hopkins.chatgpt.site">Hosted preview</a>
 </p>
 
 <p align="center">
@@ -57,7 +58,7 @@ python -m http.server 8000 --bind 127.0.0.1 --directory lab/dist
 
 Open **[localhost:8000](http://localhost:8000)**. No npm installation or build step. The viewer, cortical geometry, and reference data are included. Use a browser with WebGL support.
 
-The [hosted preview](https://bbci-entropic-research-lab.ryan-hopkins.chatgpt.site) currently requires owner access; the local lab is available to everyone who clones this repository.
+View the [hosted preview](https://bbci-entropic-research-lab.ryan-hopkins.chatgpt.site).
 
 <details>
 <summary><strong>Run the Python benchmark or notebook</strong></summary>
